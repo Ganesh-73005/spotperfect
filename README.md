@@ -108,8 +108,6 @@ For more information or questions, you can reach us at:
 
 
 
-# 🎈 Blank app template
-
 A simple Streamlit app template for you to modify!
 [App link](spotperfect.streamlit.app)
 
